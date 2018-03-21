@@ -1,0 +1,8 @@
+pwd = print working directory (where are you on your computer
+LS = list files in the directory you're in
+touch = makes new files like: touch classText.txt
+rm = remove files; deletes them. Can use * to delete several at once
+i = insert. Have to type i to start editing a file
+mkdir = make a new directory
+cd = change directory
+cd..= brings you back up a level:wq
